@@ -1,4 +1,4 @@
 # Kaggle
 
-house_price: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
-titanic: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+- house_price: [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+- titanic: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
